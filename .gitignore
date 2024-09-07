@@ -1,0 +1,5 @@
+git add .gitignore*.exe
+*.out
+*.app
+*.o
+*.obj
