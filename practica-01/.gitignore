@@ -1,4 +1,4 @@
-*.exe
+git add .gitignore*.exe
 *.out
 *.app
 *.o
