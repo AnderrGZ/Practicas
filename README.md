@@ -8,4 +8,4 @@
 
 [Práctica 5](practica-5.md)
 
-En esta clase estamos aprendiendo el uso y manejo de las ramas. Regresando del receso veremos como fucionar el contenido de las ramas en la rama principal
+En esta clase estamos aprendiendo el uso y manejo de las ramas. Regresando del receso veremos como fucionar el contenido de las ramas en la rama principal.
