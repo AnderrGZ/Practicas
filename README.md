@@ -10,4 +10,11 @@
 
 En esta clase estamos aprendiendo el uso y manejo de las ramas. Regresando del receso veremos como fucionar el contenido de las ramas en la rama principal.
 
+[Enlace al repositorio de la Práctica 6](https://github.com/AnderrGZ/Amerike-2)
+
+
 [Práctica 8](practica08.md)
+
+
+
+En esta clase estamos aprendiendo el uso y manejo de las ramas. Regresando del receso veremos como fucionar el contenido de las ramas en la rama principal.git
