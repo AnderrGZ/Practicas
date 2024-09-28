@@ -18,3 +18,5 @@ En esta clase estamos aprendiendo el uso y manejo de las ramas. Regresando del r
 
 
 En esta clase estamos aprendiendo el uso y manejo de las ramas. Regresando del receso veremos como fucionar el contenido de las ramas en la rama principal.git
+
+Acabamos de desplegar el servicio de _GitHub Pages_ la URL del repositorio es [Link](https://anderrgz.github.io/Practicas/)
